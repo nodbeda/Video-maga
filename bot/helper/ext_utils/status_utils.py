@@ -125,7 +125,7 @@ def action(message: Message):
 
 
 def get_readable_message(sid: int, is_user: bool, page_no: int=1, status : str='All', page_step: int=1):
-    msg = f'<a href="https://downloaderzone.42web.io/?i=1"><b><i>Bot By Dzone</b></i></a>\n\n'
+    msg = f'<a href="Https://t.me/ADDAFILES"><b><i>Bot By ADDAFILES</b></i></a>\n\n'
     dl_speed = up_speed = 0
 
     if status == 'All':
