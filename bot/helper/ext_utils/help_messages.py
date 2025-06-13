@@ -9,8 +9,8 @@ class UsetString:
     CAP = f'''
 <b>CUSTOM CAPTION SETTING</b>\n
 Set custom caption with <b>HTML</b> style
-Example: <code>{escape("<b>By:</b> <a href='https://t.me/dzonecontactbot'>Downloader Zone</a>")}</code>
-Result: <b>By:</b> <a href='https://t.me/dzonecontactbot'>Downloader Zone</a>\n
+Example: <code>{escape("<b>By:</b> <a href='https://t.me/ADDAFILES'>ADDAFILES</a>")}</code>
+Result: <b>By:</b> <a href='https://t.me/ADDAFILES'>ADDAFILES</a>\n
 <b>Format Templates:</b>
 <code>{{BL}}</code> : Default BL Format, Like Same File Name
 <code>{{file_name}}</code> : Default File Name That Will Be On File Name
